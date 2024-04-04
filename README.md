@@ -5,5 +5,5 @@ Personal University Projects
 > To be Updated
 
 # Year 2
-[x] Electronics Project: Water Pump Automation solution using flipflops
+- [x] Electronics Project: Water Pump Automation solution using flipflops
 
